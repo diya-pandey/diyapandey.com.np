@@ -81,14 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Diya Pandey"
-  avatar           : "profile.png"
-  bio              : "Side Bar Bio"
-  location         : "Butwal"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  avatar           : "image.jpg"
+  bio              : "What shall I put here?"
+  location         : "Manigram, Butwal"        
+  email            : "diya.intqxq@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,17 +95,12 @@ author:
   github           : "diya-pandey"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  instagram        : "_diya.pandey/"
+  linkedin         : "diya-pandey/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_itsdiya"
   vine             :
   weibo            :
   xing             :
