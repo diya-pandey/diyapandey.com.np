@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
+title: "Low cost hot air balloon"
+collection: Competitions
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+permalink: https://2021.spaceappschallenge.org/challenges/statements/near-space-near-you/teams/ecstatic-paradox/project/
+excerpt: 'We developed a lesson-plan and bill of materials which teach students how to build a low-cost high-altitude balloon capable of reaching near-space. This project develops new method of preparing and solving the challenges of near space, performing the near space experiments using the cost effective payload tied with hot air balloon which requires high skills like problem solving, proper planning, deep analysis, tracking and recovery Hot air Balloon payloads provide information on the atmosphere, the universe, the Sun, and the near-Earth and space environment'
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+date: 2021-10-01
+paperurl: https://drive.google.com/file/d/1qs4miaNgyhe-aWyXbfb4lEJLKTMtWW8M/view
+
+[Download paper here]https://drive.google.com/file/d/1qs4miaNgyhe-aWyXbfb4lEJLKTMtWW8M/view
