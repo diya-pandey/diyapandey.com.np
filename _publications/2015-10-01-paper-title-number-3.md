@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "Pathways to High Temperature Superconductors"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
+permalink: https://www.ecstaticparadox.com/research-papers/superconductors
+excerpt: 'High-temperature superconductivity, characterized by zero resistivity, is one of the prominent research areas discovered accidentally in 1911 by the Dutch physicist H. Kamerlingh Onnes (1853–1926) when he used liquid helium to cool mercury at 4.2 K. Ever since, several    breakthroughs have been made to make it possible at room temperature:  Yttrium-Barium-Copper-Oxide at 77 K, H2S above 200K, with the latest from hydrogen sulfide, hydrogen, and methane at 15 C or 288K. However, the biggest questions surrounding high-temperature superconductivity involve the pathway to getting to low pressures as well. So our primary focus is  to find the room temperature superconductor with the low pressure       resulting in extensive practical applications.Once a novelty, superconductivity leapt into the scientific mainstream.Perhaps, if nature is kind, it will leap into the consumer mainstream with 21st century advancements.'
+date: Ongoing
+paperurl: 'https://www.ecstaticparadox.com/research-papers/superconductors'
+High-temperature superconductivity, characterized by zero resistivity, is one of the prominent research areas discovered accidentally in 1911 by the Dutch physicist H. Kamerlingh Onnes (1853–1926) when he used liquid helium to cool mercury at 4.2 K. Ever since, several    breakthroughs have been made to make it possible at room temperature:  Yttrium-Barium-Copper-Oxide at 77 K, H2S above 200K, with the latest from hydrogen sulfide, hydrogen, and methane at 15 C or 288K. However, the biggest questions surrounding high-temperature superconductivity involve the pathway to getting to low pressures as well. So our primary focus is  to find the room temperature superconductor with the low pressure       resulting in extensive practical applications.Once a novelty, superconductivity leapt into the scientific mainstream.Perhaps, if nature is kind, it will leap into the consumer mainstream with 21st century advancements.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
