@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Diya Pandey - Personal Website"
+title: "Diya Pandey"
 excerpt: "About me"
-author_profile: "Name2"
+author_profile: "Physics and Tech Enthusiast, Aspiring Researcher"
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hey its me
-## this is a heading
+
+## Namaste!
