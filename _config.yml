@@ -81,10 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Diya Pandey"
-  avatar           : "image.jpg"
-  bio              : "What shall I add here?"
-  location         : "Manigram, Butwal"        
-  email            : "diya.intqxq@gmail.com"
+  avatar           : "profile.png"
+  bio              : "What shall I put here?"
+  location         : "Manigram, Butwal"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :  "diya.intqxq@gmail.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
