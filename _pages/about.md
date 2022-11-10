@@ -10,6 +10,6 @@ redirect_from:
 
 
 ## Namaste!
-Diya is a keen physics and tech enthusiast. She loves to dive deep into the vastness of cosmos and hope to explore more about it through quantum computing. She hopes to provide equiatble opportunities for everyone and works to achive so. 
+Diya is a keen physics and tech enthusiast. She loves to dive deep into the vastness of cosmos and want to explore more about it through quantum computing. She belives everyone should get equiatble opportunities and works to make it true. 
 
-Feel free to connect with her. Also don't just say hello. Buy her a cup of coffee and talk about physics, books, politics, life and of course how can we get more Women in STEM. 
+Feel free to connect with her. Also don't just say hello. Talk about physics, books, politics, life and of course how can we get more Women in STEM. 
